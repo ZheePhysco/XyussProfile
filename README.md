@@ -2,48 +2,41 @@
 
 <p align="center">
 Crafted, not just coded.<br>
-Building fast, elegant, high-performance web experiences.
-</p>
-
-<p align="center">
-  <a href="https://github.com/ZheePhysco">
-    <img src="https://img.shields.io/badge/Profile-GitHub-000?style=flat&logo=github">
-  </a>
+Design × Code × Performance
 </p>
 
 ---
 
-## ⚡ About Me
-Frontend developer from Indonesia focused on building modern, performant, and visually refined web experiences.
+## About
+Frontend developer from Indonesia focused on building fast, elegant, and high-performance web experiences.  
+I care about details, clarity, and how things feel — not just how they work.
 
 ---
 
-## 🧠 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,figma,git" />
-</p>
+## Stack
+React • Next.js • TypeScript • Tailwind • Node.js
 
 ---
 
-## 🚀 Focus
-- UI/UX Design
-- Performance Optimization
-- Modern Web Architecture
+## Focus
+UI/UX Design  
+Performance Optimization  
+Modern Web Architecture  
 
 ---
 
-## 💼 Featured Projects
-- **zhee-portfolio** → Personal website
-- **zhee-design-system** → UI components & design system
-- **zhee-lab** → Experiments & motion playground
+## Selected Work
+
+### zhee-portfolio
+A refined personal website built with performance and visual clarity in mind.
+
+### zhee-design-system
+Scalable UI components designed for consistency and efficiency.
+
+### zhee-lab
+A space for experiments in motion, interaction, and modern web ideas.
 
 ---
 
-## 📊 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZheePhysco&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZheePhysco&theme=tokyonight&hide_border=true" />
-</p>
+## Presence
+GitHub → https://github.com/ZheePhysco
